@@ -1,6 +1,7 @@
 ## Portfolio
 
 [CV](/pdf/RuiJiangCV.pdf)
+<img src="images/cv.png?raw=true"/>
 
 ---
 
