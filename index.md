@@ -5,7 +5,7 @@
 
 ---
 
-### MUSA project
+## MUSA project
 
 [MUSA675 Forecasting flood inundation](/pdf/MUSA675Midterm.html)
 <img src="images/MUSA675Midterm.png?raw=true"/>
@@ -32,19 +32,18 @@
 
 ---
 
+## MSAG Capstone
 
-### The Water Center at Penn
+[StoryMap](https://arcg.is/1HGiDX0)
+<img src="images/StoryMap.png?raw=true"/>
+
+---
+
+## The Water Center at Penn
 
 [Homepage](https://watercenter.sas.upenn.edu/)
 <br>
 [Research Project](https://watercenter.sas.upenn.edu/research/projects/)
-
----
-
-### MSAG Capstone
-
-[StoryMap](https://arcg.is/1HGiDX0)
-<img src="images/StoryMap.png?raw=true"/>
 
 ---
 
