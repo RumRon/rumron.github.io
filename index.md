@@ -47,5 +47,14 @@
 
 ---
 
+## My Doggies
+
+### Kuro
+<img src="images/Kuro.jpeg?raw=true"/>
+### Lucky
+<img src="images/lucky.jpeg?raw=true"/>
+### Wawa ❤
+<img src="images/wawa.jpeg?raw=true"/>
+
 ---
 <p style="font-size:11px">
