@@ -51,7 +51,7 @@
 
 ## My Doggies
 
-### Kuro
+### [Kuro](https://www.instagram.com/kuro.21_/)
 <img src="images/Kuro.jpeg?raw=true"/>
 ### Lucky
 <img src="images/lucky.jpeg?raw=true"/>
