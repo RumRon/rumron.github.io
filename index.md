@@ -43,7 +43,8 @@
 
 [Homepage](https://watercenter.sas.upenn.edu/)
 <br>
-[Research Project](https://watercenter.sas.upenn.edu/research/projects/)
+[Water Center at Penn recommends methods for addressing bacteria levels in Delaware River](https://watercenter.sas.upenn.edu/news/2024/02/07/water-center-penn-recommends-methods-addressing-bacteria-levels-delaware-river)
+[Holistic Wet Weather Management through Adaptive Volume and Pollutant Source Control at a Community Scale: Finding the Sweet Spot](https://watercenter.sas.upenn.edu/news/2024/02/07/water-center-penn-recommends-methods-addressing-bacteria-levels-delaware-river)
 
 ---
 
