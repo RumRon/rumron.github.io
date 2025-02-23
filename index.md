@@ -34,7 +34,6 @@
 
 ## MSAG Capstone
 
-[StoryMap](https://arcg.is/04m9991)
 <img src="images/StoryMap.png?raw=true"/>
 
 ---
@@ -43,9 +42,12 @@
 
 [Homepage](https://watercenter.sas.upenn.edu/)
 <br>
-[Water Center at Penn recommends methods for addressing bacteria levels in Delaware River](https://watercenter.sas.upenn.edu/news/2024/02/07/water-center-penn-recommends-methods-addressing-bacteria-levels-delaware-river)
+[Delaware River Bacteria Study](https://watercenter.sas.upenn.edu/research/projects/roadmap-delaware-river-upgrade-recreational-use-philadelphia-and-camden)
 <br>
-[Holistic Wet Weather Management through Adaptive Volume and Pollutant Source Control at a Community Scale: Finding the Sweet Spot](https://watercenter.sas.upenn.edu/news/2024/02/07/water-center-penn-recommends-methods-addressing-bacteria-levels-delaware-river)
+[StoryMap](https://arcg.is/04m9991)
+[Final Report](/pdf/Delaware_River_Bacteria_Study.pdf)
+<br>
+[Holistic Wet Weather Management through Adaptive Volume and Pollutant Source Control at a Community Scale: Finding the Sweet Spot](https://watercenter.sas.upenn.edu/research/projects/holistic-wet-weather-management-through-adaptive-volume-and-pollutant-source)
 
 ---
 
