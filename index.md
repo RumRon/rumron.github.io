@@ -34,7 +34,7 @@
 
 ## MSAG Capstone
 
-[StoryMap](https://arcg.is/1HGiDX0)
+[StoryMap](https://arcg.is/04m9991)
 <img src="images/StoryMap.png?raw=true"/>
 
 ---
