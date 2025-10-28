@@ -55,9 +55,11 @@
 
 ### [Kuro](https://www.instagram.com/kuro.21_/)
 <img src="images/Kuro.jpeg?raw=true"/>
-### Lucky
+### Rumble
+<img src="images/Rumble.jpeg?raw=true"/>
+### Lucky 😇
 <img src="images/lucky.jpeg?raw=true"/>
-### Wawa ❤
+### Wawa 😇
 <img src="images/wawa.jpeg?raw=true"/>
 
 ---
